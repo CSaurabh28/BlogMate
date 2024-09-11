@@ -74,6 +74,11 @@ To set up the project locally, follow these steps:
 ## Screenshots
 
 
+![Screenshot 2024-09-11 102643](https://github.com/user-attachments/assets/c1f2ba01-fac1-4bc6-9cd1-02c34a066465)
+![Screenshot 2024-09-11 102716](https://github.com/user-attachments/assets/145fae1b-d3d1-4d81-b1aa-134d35e56e46)
+![Screenshot 2024-09-11 102757](https://github.com/user-attachments/assets/690217e0-e567-421d-bcfb-599709d3f731)
+![Screenshot 2024-09-11 102812](https://github.com/user-attachments/assets/0696c19a-2692-4452-a21a-c46bca1b68d3)
+![Screenshot 2024-09-11 102846](https://github.com/user-attachments/assets/73d3dcff-dbf5-436a-beee-6f18b94c67e7)
 
 ## Future Enhancements
 
