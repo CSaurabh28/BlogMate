@@ -1,4 +1,3 @@
-
 # BlogMate
 
 BlogMate is a dynamic blog web application designed to provide a user-friendly platform for creating, editing, and sharing blog posts. It features a secure user authentication system, an intuitive post creation interface, and an integrated commenting system that encourages interaction and discussion. The application is backed by a robust database to efficiently manage users, posts, and comments.
@@ -73,12 +72,25 @@ To set up the project locally, follow these steps:
 
 ## Screenshots
 
+### Home Page
 
-![Screenshot 2024-09-11 102643](https://github.com/user-attachments/assets/c1f2ba01-fac1-4bc6-9cd1-02c34a066465)
-![Screenshot 2024-09-11 102716](https://github.com/user-attachments/assets/145fae1b-d3d1-4d81-b1aa-134d35e56e46)
-![Screenshot 2024-09-11 102757](https://github.com/user-attachments/assets/690217e0-e567-421d-bcfb-599709d3f731)
-![Screenshot 2024-09-11 102812](https://github.com/user-attachments/assets/0696c19a-2692-4452-a21a-c46bca1b68d3)
-![Screenshot 2024-09-11 102846](https://github.com/user-attachments/assets/73d3dcff-dbf5-436a-beee-6f18b94c67e7)
+<img src="https://github.com/user-attachments/assets/c1f2ba01-fac1-4bc6-9cd1-02c34a066465" alt="Home Page" width="600"/>
+
+### Post Page
+
+<img src="https://github.com/user-attachments/assets/145fae1b-d3d1-4d81-b1aa-134d35e56e46" alt="Post Creation" width="600"/>
+
+### Comment Section
+
+<img src="https://github.com/user-attachments/assets/690217e0-e567-421d-bcfb-599709d3f731" alt="Comment Section" width="600"/>
+
+### Add Post
+
+<img src="https://github.com/user-attachments/assets/0696c19a-2692-4452-a21a-c46bca1b68d3" alt="Edit Post" width="600"/>
+
+### User Profile
+
+<img src="https://github.com/user-attachments/assets/73d3dcff-dbf5-436a-beee-6f18b94c67e7" alt="User Profile" width="600"/>
 
 ## Future Enhancements
 
@@ -94,6 +106,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the Apache License.
-
----
-
